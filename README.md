@@ -24,3 +24,12 @@ It is part of my backend practice projects — focuses only on server-side logic
 ---
 
 ## 📂 Project Structure
+
+fileUploadBackend/
+├── uploads/ # Uploaded files will be stored here
+├── routes/ # Route handling logic
+├── controllers/ # Business logic (optional)
+├── .env # Environment variables (not committed)
+├── .gitignore # Git ignore settings
+├── package.json # Project metadata and dependencies
+└── server.js # Entry point
